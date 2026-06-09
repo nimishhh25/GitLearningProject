@@ -6,3 +6,8 @@ Topics Learned:
 3. Commit
 4. Push
 5. Pull
+6. Branches
+7. Merge
+8. Pull Requests
+9. GitHub Collaboration
+10. Version History
